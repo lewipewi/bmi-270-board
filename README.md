@@ -1,7 +1,7 @@
 # bmi-270 board
 
 Compact wireless 6-axis motion sensor board. Single-cell LiPo or USB powered,
-with USB-serial for flashing and debug.
+with USB-serial for flashing and debug. Part of a larger project aimed at playing fighting games using the body.
 
 ## Hardware
 
