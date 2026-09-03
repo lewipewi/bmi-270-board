@@ -16,7 +16,7 @@ with USB-serial for flashing and debug.
 
 2-layer, ~40 × 42 mm. Module antenna overhangs the board edge.
 
-![3D View](docs/img/3d-view.png)
+![3D View](3d-view.png)
 *3D View*
 
 ## Notes
