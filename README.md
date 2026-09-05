@@ -16,7 +16,7 @@ with USB-serial for flashing and debug. Part of a larger project aimed at playin
 
 2-layer, ~40 × 42 mm. Module antenna overhangs the board edge.
 
-![3D View](3d-View.png)
+![3D View](img/3d-View.png)
 *3D View*
 
 ## Notes
